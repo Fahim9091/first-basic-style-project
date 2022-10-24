@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 body {
   padding: 0px;
   margin: 0px;
@@ -224,7 +224,7 @@ a {
   border: 1px solid;
   position: relative;
   border-radius: 5px;
-  padding: 15px 40px;
+  padding: 15px 40px !important;
 }
 
 .image-section {
