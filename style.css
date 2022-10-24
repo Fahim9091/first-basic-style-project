@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   padding: 0px;
   margin: 0px;
@@ -151,4 +152,159 @@ h1{
   text-align: center;
   margin-bottom: 10px;
   padding: 5px;
+=======
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Poppins", sans-serif;
+}
+.container {
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  background-image: url("https://programminghero1.github.io/developer-portfolio/images/top-banner.png");
+  background-repeat: no-repeat;
+}
+
+.container .half-width h1 {
+  color: black;
+  font-size: 50px;
+  font-weight: 700;
+  margin-left: 5%;
+  padding-left: 2%;
+  font-size: 50px;
+  padding-top: 50px;
+}
+
+.half-width h1 {
+  font-weight: 700;
+  margin-left: 5%;
+  padding-left: 2%;
+  font-size: 50px;
+  padding-top: 50px;
+}
+
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding: 2%;
+}
+.half-width img {
+  width: 100%;
+}
+
+span {
+  color: goldenrod;
+}
+.half-width h3 {
+  margin-left: 5%;
+  padding: 2%;
+}
+.half-width p {
+    color: dimgrey;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: 100px ;
+    margin-left: 5%;
+    padding-left: 2%;
+    font-weight: 650;
+    margin-bottom: 40px;
+}
+.half-width a {
+  margin-left: 7%;
+  padding: 2%;
+}
+a {
+  color: white;
+  background-color: tomato;
+  font-weight: 700;
+  display: inline;
+  text-decoration: none;
+  border: 1px solid;
+  position: relative;
+  border-radius: 5px;
+  padding: 15px 40px;
+}
+
+.image-section {
+  width: 40%;
+  margin-left: 10%;
+  margin-top: 10%;
+
+}
+
+.dream-section {
+  width: 40%;
+  margin-left: 5%;
+  margin-top: 10%;
+  
+}
+
+img {
+  width: 100%;
+}
+.second-section{
+    display: flex;
+}
+
+.dream{
+    font-size: 50px;
+}
+.dream2{
+    font-size:20px ;
+}
+
+.dream-section p{
+
+        color: dimgrey;
+        line-height: 30px;
+        font-size: 18px;
+        font-weight: 100px ;
+        
+    }
+
+.expirience{
+  display: flex;
+  height: 500px;
+  padding-bottom: 150px;
+  margin-top: 10%;
+}
+
+.developer-section{
+  margin-left:5% ;
+  padding: 2%;
+  width: 40%;
+  border-left: 7px solid tomato;
+  
+}
+.babu-dev{
+  width: 40%;
+  margin-left: 5%;
+  padding: 2%;
+  border-image: linear-gradient(blue 100%, cyan 100%);
+}
+
+h1{
+  font-size: 40px;
+}
+.gold-highlight{
+  color: goldenrod;
+  margin-top: 50px;
+}
+
+.expirience div{
+  box-shadow: 5px 7px 40px grey;
+  height: 80%;
+}
+
+.dev-p{
+  margin-top: 40px;
+}
+
+.copy-right{
+  text-align: center;
+  margin-bottom: 10px;
+  padding: 5px;
+>>>>>>> 81bbb5cd985e9504fd97ad844b6a2deed0614422
 }
